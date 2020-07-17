@@ -77,8 +77,8 @@ def get_svg_template():
 
     svg = (
         """
-        <svg width="320" height="95" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-            <foreignObject width="320" height="95">
+        <svg width="320" height="125" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <foreignObject width="320" height="125">
                 <div xmlns="http://www.w3.org/1999/xhtml" class="container">
                     <style>
                         div {{font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;}}
