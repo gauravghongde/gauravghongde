@@ -77,8 +77,8 @@ def get_svg_template():
 
     svg = (
         """
-        <svg width="320" height="445" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-            <foreignObject width="320" height="445">
+        <svg width="320" height="90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <foreignObject width="320" height="90">
                 <div xmlns="http://www.w3.org/1999/xhtml" class="container">
                     <style>
                         div {{font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;}}
@@ -178,12 +178,12 @@ def make_svg(data):
     artist_name = item["artists"][0]["name"].replace("&", "&amp;")
     song_name = item["name"].replace("&", "&amp;")
     content_rendered = content.format(
+        img,
         text,
-        artist_name, 
         song_name, 
+        artist_name,
         content_bar, 
         item["external_urls"]["spotify"], 
-        img,
     )
 
     return template.format(content_rendered)
