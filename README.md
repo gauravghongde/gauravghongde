@@ -40,6 +40,12 @@
          <a href="https://play.google.com/store/apps/dev?id=7300960281868524728">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
          </a>
+         <p align="center"> 
+            <img src="https://komarev.com/ghpvc/?username=gauravghongde&label=Profile%20Views&color=blue&style=plastic" alt="gauravghongde"/>
+            <a href="https://madebygaurav.vercel.app">
+               <img src="https://img.shields.io/badge/Portfolio-madebygaurav.vercel.app-2ea44f?style=plastic"/>
+            </a>
+         </p>
       </h2>
       <details align="center">
          <summary><b>More About Me</b><br></summary>
