@@ -10,7 +10,7 @@
       </h2>
       <h2 align="center">Bio</h2>
       <p align="center">
-         I'm a 2019 Computer Engineering Graduate from Pune University, currently working as Software Developer, at TIAA GBS Pune. Worked on ML and NLP for my Final Year Project. Developed and Deployed an Android app on Playstore as an hobby project. <br>
+         I'm a 2019 Computer Engineering Graduate from Pune University, currently working as Software Developer. Worked on ML and NLP for my Final Year Project. Developed and Deployed an Android app on Playstore as an hobby project. <br>
       </p>
       <h2 align="center">Technologies I currently work on</h2>
       <dl align="center">
