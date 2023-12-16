@@ -16,12 +16,12 @@
   - **Frameworks:** Spring Boot, Angular, Bootstrap
   - **Data Technologies:** Apache Spark, Druid, Hadoop
   - **Cloud Proficiency:** Google Cloud Platform (GCP)
-  - **Tools Mastery:** Jenkins, Docker, Gradle, Maven, Git
+  - **Tools:** Jenkins, Docker, Gradle, Maven, Git
 
 ## Noteworthy Projects 🌐
 
-  - **Minify App:** 1.5k+ downloads, featured in Times of Tech.
-  - **Devnet Q&A Nexus:** In-house Stack Overflow, a pinnacle of tech collaboration.
+  - **Minify App:** 1.5k+ downloads, Featured on Times of India in Campus@TOI on Dec 25, 2018.
+  - **Devnet Q&A Nexus:** Successfully adopted as "In-house Stack Overflow," and in use across teams.
 
 ## Let's Connect! 🤝
 <h2 align="left">
